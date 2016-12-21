@@ -8,7 +8,9 @@ M. Šmíd and J. Matas, “Rolling Shutter Camera Synchronization with Sub-milli
 
 ## Executable paper
 
-Jupyter notebook executable_paper.ipynb containts code for reproducing the results and the figures presented in the paper.
+![executable paper](executable_paper.jpg)
+
+Jupyter notebook [executable_paper.ipynb](executable_paper.ipynb) containts code for reproducing the results and the figures presented in the paper.
 
 ### Installation and Running
 
