@@ -1,0 +1,7 @@
+jupyter
+seaborn
+tabulate
+imagesource
+joblib
+git+https://github.com/smidm/flashvideosynchronization.git
+
